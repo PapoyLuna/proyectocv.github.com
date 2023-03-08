@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title>Mi Curriculum</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
@@ -11,7 +10,6 @@
             <h2 class="Nombre"> Ramona Powell </h2>
             <img src="./imagen/portada/ramona.jpg">                   
         </section>
-
  <article> 
     <fieldset>
         <u1>
@@ -31,7 +29,6 @@
             <li>Instagram: /Ramona.Powell</li>
         </u1>
     </fieldset> 
-
     <fieldset>
         <u1>
             <legend> Formación Académica </legend>
@@ -58,7 +55,6 @@
         </u1>
     </fieldset> 
  </article>
-
  <h3 class="subtitulo"> Proyectos realizados </h3>
 <article>
     <section id="proyects"></section>
