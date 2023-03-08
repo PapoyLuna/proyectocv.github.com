@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+*{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+.titulo {   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: mediumblue;
+    margin: 20px;
+    font-size: 3rem;
+}
+
+.Nombre {
+    display: flex;
+    align-items: center;
+    color: black;
+    margin: 5px;      
+}
+
+section#hero{
+    font-family: 'Fredoka One', cursive;   
+}
+
+.hero img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+fieldset{
+    display: flex;
+    border: 5px solid white;
+    width: 350px;
+    margin: 20px;
+    column-gap: 20;
+    
+}
+
+legend{
+    border: 1px solid ;
+    background-color: cornsilk;
+    
+}
+  
+article{
+    display: flex;
+    padding-top: 20px;
+    column-count: 2; 
+    
+}
+
+.detalles{  
+    align-items: center;
+    color: black;
+    font-size: 1.5rem;
+}
+   
+.subtitulo{
+    align-items: center;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.proyects-detail{
+    border: 5px solid white;
+    width: 400px
+}
+.proyects-detail img{
+    width: 100%;
+}
